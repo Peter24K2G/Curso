@@ -43,3 +43,4 @@ urllib3==2.2.1
 xarray==2024.3.0
 xyzservices==2024.4.0
 openpyxl==3.1.2
+wqchartpy==0.1.10
