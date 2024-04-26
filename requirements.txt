@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-_anaconda_depends=2024.02=py311_mkl_1
+#_anaconda_depends=2024.02=py311_mkl_1
 abseil-cpp=20211102.0=hd77b12b_0
 adjusttext=1.1.1=pypi_0
 affine=2.4.0=pypi_0
